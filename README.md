@@ -84,9 +84,7 @@ Weather-forecast-app/
 - Event handling
 - Mobile-first design approach
 
-## Screenshots
 
-*Add screenshots of your application here*
 
 ## API Reference
 
